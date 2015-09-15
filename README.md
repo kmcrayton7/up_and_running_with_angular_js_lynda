@@ -1,1 +1,1 @@
-# up_and_running_with_angular_js
+# up_and_running_with_angular_js_lynda
